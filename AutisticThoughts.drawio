@@ -1,82 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2024-02-02T20:00:10.306Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="22.1.20" etag="f2CCyHKZhzhIu-2i0J0g" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-02T20:04:37.742Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ZSAiIlWb6lEMaS0yb6gN" version="22.1.20" type="github">
   <diagram name="Page-1" id="HpePcDftgP1014YCnxiL">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="Autistic Thought pattern Flows" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="394" y="135" width="197" height="197" as="geometry" />
+        <mxCell id="2" value="Autistic Thought pattern Flows" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="430" y="175" width="126" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="Difficulty in social communication" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="647" y="175" width="150" height="55" as="geometry" />
+        <mxCell id="3" value="Difficulty in social communication" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="630" y="199" width="150" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="Challenges in understanding and using non verbal cues" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="819" y="80" width="194" height="73" as="geometry" />
+        <mxCell id="4" value="Challenges in understanding and using non verbal cues" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="780" y="102" width="141" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="Difficulty in developing and maintaining relationships" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="780" y="254" width="218" height="55" as="geometry" />
+        <mxCell id="5" value="Difficulty in developing and maintaining relationships" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="780" y="281" width="150" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="Restrictive and repetitive behaviors" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="427" y="312" width="203" height="55" as="geometry" />
+        <mxCell id="6" value="Restrictive and repetitive behaviors" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="427" y="336" width="163" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="Stereotyped or repetitive motor movements" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="592" y="391" width="203" height="55" as="geometry" />
+        <mxCell id="7" value="Stereotyped or repetitive motor movements" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="540" y="434" width="158" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="Insistence on sameness and strict adherence to routines" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="278" y="398" width="216" height="73" as="geometry" />
+        <mxCell id="8" value="Insistence on sameness and strict adherence to routines" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="310" y="425" width="182" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="Sensory sensitivities" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="173" y="235" width="164" height="38" as="geometry" />
+        <mxCell id="9" value="Sensory sensitivities" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="230" y="219" width="137" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="10" value="Over or under sensitivity to sensory input" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="15" y="299" width="217" height="55" as="geometry" />
+        <mxCell id="10" value="Over or under sensitivity to sensory input" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="140" y="300" width="175" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="11" value="Hypersensitivity to sounds, lights, textures, etc." style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="55" y="144" width="213" height="55" as="geometry" />
+        <mxCell id="11" value="Hypersensitivity to sounds, lights, textures, etc." style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="110" y="130" width="175" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="12" value="Special interests and intense focus" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="373" y="97" width="169" height="55" as="geometry" />
+        <mxCell id="12" value="Special interests and intense focus" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="383" y="98" width="147" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="13" value="Highly focused interests and preoccupations" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="223" y="15" width="192" height="55" as="geometry" />
+        <mxCell id="13" value="Highly focused interests and preoccupations" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="260" y="25" width="167" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="14" value="Deep knowledge in specific subjects" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="509" y="19" width="215" height="55" as="geometry" />
+        <mxCell id="14" value="Deep knowledge in specific subjects" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="490" y="25" width="151" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="15" style="endArrow=none" edge="1" parent="1" source="2" target="3">
+        <mxCell id="15" style="endArrow=none" parent="1" source="2" target="3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="16" style="endArrow=none" edge="1" parent="1" source="2" target="6">
+        <mxCell id="16" style="endArrow=none" parent="1" source="2" target="6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="17" style="endArrow=none" edge="1" parent="1" source="2" target="9">
+        <mxCell id="17" style="endArrow=none" parent="1" source="2" target="9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="18" style="endArrow=none" edge="1" parent="1" source="2" target="12">
+        <mxCell id="18" style="endArrow=none" parent="1" source="2" target="12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="19" style="endArrow=none" edge="1" parent="1" source="3" target="4">
+        <mxCell id="19" style="endArrow=none" parent="1" source="3" target="4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="20" style="endArrow=none" edge="1" parent="1" source="3" target="5">
+        <mxCell id="20" style="endArrow=none" parent="1" source="3" target="5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="21" style="endArrow=none" edge="1" parent="1" source="6" target="7">
+        <mxCell id="21" style="endArrow=none" parent="1" source="6" target="7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="22" style="endArrow=none" edge="1" parent="1" source="6" target="8">
+        <mxCell id="22" style="endArrow=none" parent="1" source="6" target="8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="23" style="endArrow=none" edge="1" parent="1" source="9" target="10">
+        <mxCell id="23" style="endArrow=none" parent="1" source="9" target="10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="24" style="endArrow=none" edge="1" parent="1" source="9" target="11">
+        <mxCell id="24" style="endArrow=none" parent="1" source="9" target="11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="25" style="endArrow=none" edge="1" parent="1" source="12" target="13">
+        <mxCell id="25" style="endArrow=none" parent="1" source="12" target="13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="26" style="endArrow=none" edge="1" parent="1" source="12" target="14">
+        <mxCell id="26" style="endArrow=none" parent="1" source="12" target="14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
