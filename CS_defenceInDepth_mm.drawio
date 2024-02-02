@@ -1,130 +1,139 @@
-<mxfile host="app.diagrams.net" modified="2024-02-02T19:22:31.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="22.1.20" etag="IAsn2gSWEKbH7C8qKt7h" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-02T19:24:50.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="PqHig4UygZKnBPmdDcKG" version="22.1.20" type="github">
   <diagram name="Page-1" id="39IPZdBn1KxL83gMQ81g">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="cybersecurity Defense in Depth" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="304" y="100" width="197" height="197" as="geometry" />
+        <mxCell id="2" value="cybersecurity Defense in Depth" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="334" y="129" width="134" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="3" value="" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="494" y="104" width="20" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="Firewalls" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="4" value="Firewalls" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="535" y="153" width="85" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="Intrusion Detection Systems" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5" value="Intrusion Detection Systems" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="581" y="99" width="220" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="Secure Coding Practices" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="350" y="15" width="191" height="38" as="geometry" />
+        <mxCell id="6" value="Secure Coding Practices" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="429" y="15" width="191" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="Encryption" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="563" y="44" width="97" height="38" as="geometry" />
+        <mxCell id="7" value="Encryption" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="630" y="41" width="97" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="8" value="" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="584" y="240" width="20" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="Security Policies and Procedures" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="373" y="249" width="168" height="55" as="geometry" />
+        <mxCell id="9" value="Security Policies and Procedures" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="468" y="400" width="168" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="10" value="Employee Awareness Training" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="10" value="Employee Awareness Training" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="664" y="178" width="168" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="11" value="Incident Response Planning" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="506" y="318" width="214" height="38" as="geometry" />
+        <mxCell id="11" value="Incident Response Planning" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="593" y="350" width="214" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="12" value="Access Management" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="12" value="Access Management" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="651" y="270" width="164" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="13" value="" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="291" y="282" width="20" height="19" as="geometry" />
+        <mxCell id="13" value="" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="291" y="279.5" width="20" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="14" value="Surveillance Systems" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="14" value="Surveillance Systems" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="108" y="231" width="169" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="15" value="Secure Data Centers" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="15" value="Secure Data Centers" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="58" y="294" width="166" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="16" value="Access controls" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="16" value="Access controls" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="337" y="327" width="131" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="17" value="Environmental Monitoring" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="17" value="Environmental Monitoring" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="113" y="350" width="204" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="18" value="" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="18" value="" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="243" y="129" width="20" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="19" value="Risk Assessments" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="175" y="32" width="141" height="38" as="geometry" />
+        <mxCell id="19" value="Risk Assessments" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="102" y="15" width="141" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="20" value="Security Audits" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="313" y="86" width="127" height="38" as="geometry" />
+        <mxCell id="20" value="Security Audits" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="237.5" y="61" width="127" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="21" value="Compliance Policies" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="21" value="Compliance Policies" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="63" y="163" width="163" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="22" value="Business Continuity Planning" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="15" y="79" width="159" height="55" as="geometry" />
+        <mxCell id="22" value="Business Continuity Planning" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="20" y="74" width="159" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="23" style="endArrow=none" edge="1" parent="1" source="2" target="3">
+        <mxCell id="23" style="endArrow=none" parent="1" source="2" target="3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="24" style="endArrow=none" edge="1" parent="1" source="2" target="8">
+        <mxCell id="24" style="endArrow=none" parent="1" source="2" target="8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="25" style="endArrow=none" edge="1" parent="1" source="2" target="13">
+        <mxCell id="25" style="endArrow=none" parent="1" source="2" target="13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="26" style="endArrow=none" edge="1" parent="1" source="2" target="18">
+        <mxCell id="26" style="endArrow=none" parent="1" source="2" target="18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="27" style="endArrow=none" edge="1" parent="1" source="3" target="4">
+        <mxCell id="27" style="endArrow=none" parent="1" source="3" target="4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="28" style="endArrow=none" edge="1" parent="1" source="3" target="5">
+        <mxCell id="28" style="endArrow=none" parent="1" source="3" target="5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="29" style="endArrow=none" edge="1" parent="1" source="3" target="6">
+        <mxCell id="29" style="endArrow=none" parent="1" source="3" target="6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="30" style="endArrow=none" edge="1" parent="1" source="3" target="7">
+        <mxCell id="30" style="endArrow=none" parent="1" source="3" target="7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="31" style="endArrow=none" edge="1" parent="1" source="8" target="9">
+        <mxCell id="31" style="endArrow=none" parent="1" source="8" target="9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="32" style="endArrow=none" edge="1" parent="1" source="8" target="10">
+        <mxCell id="32" style="endArrow=none" parent="1" source="8" target="10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="33" style="endArrow=none" edge="1" parent="1" source="8" target="11">
+        <mxCell id="33" style="endArrow=none" parent="1" source="8" target="11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="34" style="endArrow=none" edge="1" parent="1" source="8" target="12">
+        <mxCell id="34" style="endArrow=none" parent="1" source="8" target="12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="35" style="endArrow=none" edge="1" parent="1" source="13" target="14">
+        <mxCell id="35" style="endArrow=none" parent="1" source="13" target="14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="36" style="endArrow=none" edge="1" parent="1" source="13" target="15">
+        <mxCell id="36" style="endArrow=none" parent="1" source="13" target="15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="37" style="endArrow=none" edge="1" parent="1" source="13" target="16">
+        <mxCell id="37" style="endArrow=none" parent="1" source="13" target="16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="38" style="endArrow=none" edge="1" parent="1" source="13" target="17">
+        <mxCell id="38" style="endArrow=none" parent="1" source="13" target="17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="39" style="endArrow=none" edge="1" parent="1" source="18" target="19">
+        <mxCell id="39" style="endArrow=none" parent="1" source="18" target="19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="40" style="endArrow=none" edge="1" parent="1" source="18" target="20">
+        <mxCell id="40" style="endArrow=none" parent="1" source="18" target="20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="41" style="endArrow=none" edge="1" parent="1" source="18" target="21">
+        <mxCell id="41" style="endArrow=none" parent="1" source="18" target="21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="42" style="endArrow=none" edge="1" parent="1" source="18" target="22">
+        <mxCell id="42" style="endArrow=none" parent="1" source="18" target="22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxbu26_OlAK-lisx87Ns-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.418;entryY=0.053;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="19" target="19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxbu26_OlAK-lisx87Ns-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.932;entryY=-0.079;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6" target="6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxbu26_OlAK-lisx87Ns-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.776;entryY=-0.263;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4" target="4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
